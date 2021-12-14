@@ -16,7 +16,7 @@
 | 基于 Turing.jl 的概率编程实践 | [徐锴](https://github.com/xukai92) | TODO | [repo](https://github.com/xukai92/juliacn-2021) | 
 | OMEinsum - 满足你对张量运算所有的期待 | [刘金国](https://github.com/GiggleLiuy) || [材料见 JinguoLiu 文件夹](./JinguoLiu) |
 | 邀请报告：Viral B. Shah | [Viral B. Shah](https://github.com/ViralBShah) | TODO | TODO |
-| Julia与积分微分方程 | 张润发 | TODO | TODO |
+| Julia与积分微分方程 | [张润发](https://github.com/Runfa-Zhang) | TODO | [ppt](https://github.com/Runfa-Zhang/JuliaCN) |
 | 用Julia求解微分方程 | 高俊朋 | TODO | TODO |
 | Julia在分数阶科学计算中的应用 | [曲庆宇](https://github.com/ErikQQY) | TODO | [FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl), [FractionalDiffEq.jl](https://github.com/SciFracX/FractionalDiffEq.jl), [slide](https://julia-cn-conf2021.vercel.app/1), [PDF](https://raw.githubusercontent.com/JuliaCN/MeetUpMaterials/master/Online2021/JuliaCN-SciFracX.pdf) |
 | Vlasiator.jl: Plasma Model Data Analysis | [周弘扬](https://github.com/henry2004y) || [Slide](https://github.com/JuliaCN/MeetUpMaterials/tree/master/Online2021/JuliaCon2021_Vlasiator), [Doc](https://henry2004y.github.io/Vlasiator.jl/dev/) |
